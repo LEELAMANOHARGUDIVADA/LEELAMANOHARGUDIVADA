@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a MERN Stack & React Native having expertise in developing end to end web & mobile applications.
+I'm a MERN Stack & React Native Developer having expertise in developing end to end web & mobile applications.
 
 
 ## 🌐 Socials:
